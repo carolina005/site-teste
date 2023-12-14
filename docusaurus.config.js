@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'CAR LAND',
+  title: 'Car Land',
   tagline: 'O paraíso do seu carro!',
   favicon: 'img/favicon.ico',
 
